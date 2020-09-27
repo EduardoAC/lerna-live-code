@@ -1,0 +1,12 @@
+0 silly argv {
+0 silly argv   _: [ 'add' ],
+0 silly argv   globs: [],
+0 silly argv   lernaVersion: '3.22.1',
+0 silly argv   '$0': 'C:\\Users\\Eduardo\\AppData\\Roaming\\npm-cache\\_npx\\16192\\node_modules\\lerna\\cli.js',
+0 silly argv   pkg: '@lerna-live-demo/common'
+0 silly argv }
+1 notice cli v3.22.1
+2 verbose rootPath E:\development\projects\lerna-live-code
+3 info versioning independent
+4 error Error: 404 Not Found - GET https://registry.npmjs.org/@lerna-live-demo%2fcommon - Not found
+4 error     at E:\development\projects\lerna-live-code\node_modules\@evocateur\npm-registry-fetch\check-response.js:104:15
