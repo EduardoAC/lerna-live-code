@@ -1,6 +1,6 @@
 {
   "name": "@lerna-live-code/common",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Common library",
   "author": "Eduardo Aparicio Cardenes <eduardo.aparicio.cardenes@gmail.com>",
   "license": "MIT",
@@ -28,7 +28,6 @@
     "url": "https://github.com/EduardoAC/lerna-live-code/issues"
   },
   "homepage": "https://github.com/EduardoAC/lerna-live-code#readme",
-  "dependencies": {},
   "devDependencies": {
     "@types/react": "^16.9.49",
     "@types/react-dom": "^16.9.8",
